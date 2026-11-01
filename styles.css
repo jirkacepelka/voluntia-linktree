@@ -334,6 +334,20 @@ a {
   transform: translateX(2px);
 }
 
+/* ── 404 ───────────────────────────────────────────────────────────────── */
+.notfound__title {
+  margin: 0 0 8px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.notfound__text {
+  margin: 0 0 var(--section);
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 /* ── Patička: členství v IALP vlevo, odkazy vpravo ──────────────────────── */
 .footer {
   padding: 16px 0 calc(28px + env(safe-area-inset-bottom));

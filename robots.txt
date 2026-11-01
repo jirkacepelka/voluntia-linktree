@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://voluntia-linktree.vercel.app/sitemap.xml
